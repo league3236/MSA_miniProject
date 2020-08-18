@@ -144,7 +144,7 @@ CMD ["start.sh"]
 
 ```bash
 $ cd ~/MSA_miniProject
-$ mdir docker
+$ mkdir docker
 $ mkdir kubernetes
 $ touch docker/build.sh
 $ touch docker/push.sh
